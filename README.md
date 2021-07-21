@@ -19,12 +19,12 @@ Please note that this dataset already has augmented images of the original apple
 "https://www.kaggle.com/moltean/fruits"
 
 #Apple_classifier_model
-This jupyter notebook contains the code for creating the model and saving the model under the folder 'apple_classification_model'. The model file is also available in as 'apple_classification_model.zip'
+This jupyter notebook contains the code for creating the model and saving the model under the folder 'apple_classification_model'. The jupyter notebook explains the code via commented lines. The notebook also has means of testing the image directly.
 
 #apple_classifier_test
 This python file is used for testing the saved model. there are two things that are needed to be done properly.
 
-1. Unzip 'apple_classification_model.zip' and the location of the folder must be mentioned correctly in the code (the code contains my local system location)
+1. the location of the folder 'apple_classification_model' must be mentioned correctly in the code (the code contains my local system location)
 2. The location to the test folder that contains the testing images should be mentioned properly
 
 On running the python code, the images present in the test file automatically gets predicted and the prediction for each image present in the testing folder is printed along with the name of the file.
