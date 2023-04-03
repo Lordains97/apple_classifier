@@ -1,5 +1,5 @@
 # apple_classifier
-Classification of apple with the dataset given from LuxPM company. This is written as the qualifying test for Lux
+Classification of apple with the dataset given from LuxPM company.
 
 #library version required for running
 1. numpy - 1.19.5
